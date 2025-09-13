@@ -9,9 +9,9 @@ Replace: YOUR_GITHUB_USERNAME, YOUR_NAME, YOUR_WEBSITE, YOUR_EMAIL, YOUR_LINKEDI
 </p>
 
 <p align="center">
-  <a href="https://YOUR_WEBSITE">Website</a> ·
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.afikyefet.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/afik-yefet-906757326/">LinkedIn</a> ·
+  <a href="mailto:afik.yefet@gmail.com">Email</a>
 </p>
 
 ---
