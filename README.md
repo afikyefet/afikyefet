@@ -5,7 +5,7 @@ Note: GitHub READMEs cannot force links to open in a new tab (target is stripped
 
 <h1 align="center">Hi, I’m Afik</h1>
 <p align="center">
-  Full-stack developer — shipping production features end-to-end (Shopify, Node.js, React).
+  Full-stack developer - shipping production features end-to-end (Shopify, Node.js, React).
 </p>
 
 <p align="center">
