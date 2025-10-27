@@ -1,7 +1,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   afik here. i build things that work.                             ║
+║   afik here. i build things that work.                               ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -10,9 +10,9 @@
 
 ### right now
 ```diff
-+ shipping production features @ shopify stores
++ shipping production features @ shopify storefronts
 + writing javascript that doesn't make people cry
-+ building dashboards that ops teams actually use
++ building dashboards ops teams actually use
 - not overthinking this readme
 ```
 
@@ -21,26 +21,26 @@
 ### the stack i actually use
 ```javascript
 const daily = {
-  frontend: ['react', 'redux', 'plain old css that works'],
-  backend: ['node', 'express', 'mongodb when needed'],
-  shopify: ['liquid', 'theme kit', 'customer tears'],
+  frontend: ['html', 'css/scss', 'javascript', 'react', 'redux', 'react router'],
+  backend: ['node', 'express', 'socket.io', 'mongodb (when needed)', 'rest api'],
+  shopify: ['liquid', 'theme kit'],
   automation: ['google apps script', 'cron jobs', 'coffee']
-}
+};
 ```
 
 &nbsp;
 
 ### philosophy
 > ship fast. break things. fix them faster.  
-> if your code survives production for a week, it's good enough.  
-> accessibility isn't optional.
+> if your code survives production for a week, it’s good enough.  
+> accessibility isn’t optional.
 
 &nbsp;
 
 ### recent wins
 - **gear builder** → shopify custom product ux that converts
-- **internal tools** → dashboards that saved 20hrs/week 
-- **local analytics** → because sometimes you don't need google
+- **internal tools** → dashboards that saved ≈20 h/week
+- **local analytics** → because sometimes you don’t need google
 
 &nbsp;
 
@@ -65,11 +65,13 @@ const daily = {
 <a href="mailto:afik.yefet@gmail.com">email</a>
 </sub>
 
+<br>
+
 <sub>
 visitor #<img src="https://komarev.com/ghpvc/?username=afikyefet&style=flat-square&color=58A6FF&label=+" alt=""/>
 </sub>
 
 <!-- 
-ascii art generator used: https://patorjk.com/software/taag/ 
-or just wing it like everything else 
+ascii art generator used: https://patorjk.com/software/taag/
+or just wing it like everything else
 -->
