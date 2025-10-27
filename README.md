@@ -1,105 +1,90 @@
 <!--
-README template for a GitHub profile (repo name must equal your username).
-Replace: YOUR_GITHUB_USERNAME, YOUR_NAME, YOUR_WEBSITE, YOUR_EMAIL, YOUR_LINKEDIN
+GitHub profile README for: afikyefet
+Note: GitHub READMEs cannot force links to open in a new tab (target is stripped).
 -->
 
 <h1 align="center">Hi, I’m Afik</h1>
 <p align="center">
-  Full-stack developer · building real products end-to-end (Shopify, Node/TS, React, Apps Script)
+  Full-stack developer — shipping production features end-to-end (Shopify, Node.js, React).
 </p>
 
 <p align="center">
-  <a href="https://www.afikyefet.com">Website</a> ·
-  <a href="https://www.linkedin.com/in/afik-yefet-906757326/">LinkedIn</a> ·
+  <a href="https://www.afikyefet.com">Website ↗</a> ·
+  <a href="https://www.linkedin.com/in/afik-yefet-906757326/">LinkedIn ↗</a> ·
   <a href="mailto:afik.yefet@gmail.com">Email</a>
 </p>
 
 ---
 
 ### What I do
-- Ship production features with a bias for simplicity and clarity.
-- Frontend: React/Vite, TypeScript, Tailwind, accessibility-first UI.
-- Backend/Automation: Node.js, Express, Google Apps Script, Mongo/Prisma.
-- Commerce: Shopify (Liquid + JS), theme customization, storefront UX.
+- Ship fast, keep it simple, keep it maintainable.
+- Frontend: React, Redux, React Router, accessibility-first UI.
+- Backend/Automation: Node.js, Express, MongoDB, Google Apps Script.
+- Commerce: Shopify (Liquid + JS), storefront UX, internal ops tools.
 
 ### Now
-- Building interactive product experiences and internal ops tools.
-- Experimenting with local-first engines (game logic, analytics).
-- Studying CS fundamentals & discrete math—slow, deliberate, thorough.
+- Building interactive product experiences and internal dashboards.
+- Local analytics and event pipelines.
+- Studying CS fundamentals & discrete math deliberately.
 
 ---
 
 ## Toolbox
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)](#)
-[![Shopify](https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=000)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)](#)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff)](#)
-[![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?logo=google&logoColor=fff)](#)
-[![Zustand](https://img.shields.io/badge/Zustand-000?logo=react&logoColor=fff&label=State%20Mgmt)](#)
+<!-- core per your request -->
+<img alt="HTML" src="https://img.shields.io/badge/HTML-000?logo=html5&logoColor=E34F26" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E" />
+<img alt="React" src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB" />
+<img alt="Redux" src="https://img.shields.io/badge/Redux-000?logo=redux&logoColor=764ABC" />
+<img alt="React Router" src="https://img.shields.io/badge/React%20Router-000?logo=reactrouter&logoColor=CA4245" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=5FA04E" />
+<img alt="Express" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=FFFFFF" />
+<img alt="SCSS" src="https://img.shields.io/badge/SCSS-000?logo=sass&logoColor=CC6699" />
+<img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-000?logo=socketdotio&logoColor=FFFFFF" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=47A248" />
+<img alt="REST API" src="https://img.shields.io/badge/REST%20API-000?logo=fastapi&logoColor=009688" />
+<img alt="Shopify Liquid" src="https://img.shields.io/badge/Shopify%20Liquid-000?logo=shopify&logoColor=96BF48" />
 
----
-
-## Featured work
-<!-- Swap repo names to your actual public repos -->
-<p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/poker-engine-mvp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=poker-engine-mvp&show_owner=true&theme=tokyonight&hide_border=true" alt="Poker Engine MVP"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/gear-builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=gear-builder&show_owner=true&theme=tokyonight&hide_border=true" alt="Gear Builder"/>
-  </a>
-</p>
+<!-- extras you actually use -->
+<img alt="Vite" src="https://img.shields.io/badge/Vite-000?logo=vite&logoColor=646CFF" />
+<img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-000?logo=googlesheets&logoColor=4285F4" />
 
 ---
 
 ## Stats
-<p align="left">
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=afikyefet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=afikyefet&show_icons=true&hide_border=true&include_all_commits=true"/>
   </picture>
 </p>
 
-<p align="left">
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=afikyefet&theme=tokyonight&hide_border=true"/>
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=afikyefet&hide_border=true"/>
   </picture>
 </p>
 
-<p align="left">
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=10"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afikyefet&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afikyefet&layout=compact&hide_border=true&langs_count=10"/>
   </picture>
 </p>
 
-<p align="left">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<!-- Optional trophies -->
-<p align="left">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&column=6"/>
+<p>
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=afikyefet&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## Highlights
-- 🧰 Built: interactive product builder (Shopify + TS), internal dashboards (Apps Script), local analytics/loggers.
-- 🧪 Care about: testable modules, clean state, accessibility, and minimal surface area.
-- 🧭 Preference: practical solutions over ceremony. If it ships and stays maintainable, it’s good.
-
-## Contact
-- Website – https://YOUR_WEBSITE  
-- LinkedIn – https://www.linkedin.com/in/YOUR_LINKEDIN/  
-- Email – YOUR_EMAIL  
+- Built: gear builder UX (Shopify + JS/TS), internal dashboards (Apps Script), local analytics.
+- Values: clean state, accessible UI, practical architecture.
+- Principle: if it ships and stays maintainable, it’s good.
 
 ---
 
 <sub>Visitors</sub>  
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=0e75b6)
+<img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=afikyefet&style=flat&color=0e75b6" />
