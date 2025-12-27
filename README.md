@@ -1,6 +1,6 @@
 # Afik Yefet 👋
 **Full-Stack Web Developer (React • Node.js)**  
-Building internal tools + product features at Agilite Tactical Gear.
+Full stack developer at Agilite Tactical Gear.
 
 ---
 
