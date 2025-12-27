@@ -7,8 +7,7 @@ Full stack developer at Agilite Tactical Gear.
 ## Contact
 - **Email:** afik.yefet@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/afik-yefet-906757326/  
-- **GitHub:** https://github.com/afikyefet  
-- **Facebook:** https://www.facebook.com/afik.yefet  
+- **GitHub:** https://github.com/afikyefet   
 - **LeetCode:** https://leetcode.com/u/afikyefet/
 
 ---
